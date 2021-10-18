@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ref\ObjectBigONotation.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\bin\Debug\net5.0\ObjectBigONotation.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ref\ObjectBigONotation.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\8.18.10.2021-Object, Big O notation, searching algorithms\ObjectBigONotation\ObjectBigONotation\obj\Debug\net5.0\ObjectBigONotation.genruntimeconfig.cache
